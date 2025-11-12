@@ -15,10 +15,10 @@ Don't forget to:
 
 Hi there! ❤️ I built multiple profitable products in public and also maintain this repo! Follow me on Twitter: https://x.com/tdinh_me
 
-| [TypingMind.com](https://www.typingmind.com?utm_source=tonybf)<br/> 🔥 60% OFF - Buy Once, Use Forever. | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) (macOS app) <br/> 🔥 40% OFF |
+| [TypingMind.com](https://www.typingmind.com?utm_source=tonybf)<br/> 🔥 60% OFF Premium Plan | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) (macOS app) <br/> 🔥 40% OFF |
 | --- | ------ | ------|
 | <a href="https://www.typingmind.com?utm_source=tonybf"><img src="https://image.social/get?url=typingmind.com"></a> | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="[https://compresto.app/pricing](https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday)"><img src="https://image.social/get?url=compresto.app"></a> |
-| The best chat frontend for LLMs.<br/>BLACKFRIDAY2025<br/><br/>Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | All-in-one toolbox for developers.<br/>BLACKFRIDAY2025 <br/><br/> 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura. | Discount code: BFCM25<br/><br/>Compresto is a powerful video, image & PDF compression for macOS |
+| Your Personal AI Workspace.<br/>BLACKFRIDAY2025<br/><br/>Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | All-in-one toolbox for developers.<br/>BLACKFRIDAY2025 <br/><br/> 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura. | Discount code: BFCM25<br/><br/>Compresto is a powerful video, image & PDF compression for macOS |
 
 
 ## Table of Contents
@@ -135,6 +135,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 🧠 | [ShiftApp](https://shiftapp.com/black-friday?utm_source=tonybf) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for 6 Months **BLACKFRIDAY2025** |
 | 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
